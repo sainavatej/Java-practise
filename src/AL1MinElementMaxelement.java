@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class MinElementMaxelement {
+public class AL1MinElementMaxelement {
     public void Ordering(){
         List<Integer> order = new ArrayList<>();
         for(int i=10; i<=15;i++){
@@ -13,7 +13,7 @@ public class MinElementMaxelement {
 
     }
     public static void main(String args[]){
-MinElementMaxelement order = new MinElementMaxelement();
+AL1MinElementMaxelement order = new AL1MinElementMaxelement();
     order.Ordering();
     }
 }

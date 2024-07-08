@@ -1,9 +1,8 @@
 import java.util.ArrayList;
-import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Scanner;
 
-public  class RemoveElementfromcollection {
+public  class Al4RemoveElementfromcollection {
 
     public void Indexelementremover() {
         List<Integer> li= new ArrayList<>();
@@ -25,7 +24,7 @@ public  class RemoveElementfromcollection {
     }
     public static void main(String args[]){
 
-        RemoveElementfromcollection removeElementfromcollection= new RemoveElementfromcollection();
+        Al4RemoveElementfromcollection removeElementfromcollection= new Al4RemoveElementfromcollection();
         removeElementfromcollection.Indexelementremover();
     }
 

@@ -1,4 +1,10 @@
 public class constructors {
+    //Constructors are used to Allocate memory so that we can assign a value for a variable.
+    // constructors is similar to methods but these are accessed while creating the objects whereas the methods are accessed after creating the objects
+    //these are of two types - Default constructor and parameterised constructor, by default java will provide a default constructor, if u create a constructor then java will take that constructor
+    //constructor should be same name as the class name and also there will be no return type for constructors
+
+
     // Instance variables
     String color;
     int speed;

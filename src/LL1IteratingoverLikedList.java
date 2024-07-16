@@ -1,9 +1,7 @@
 import java.util.Iterator;
-import java.util.LinkedHashSet;
 import java.util.LinkedList;
-import java.util.List;
 
-public class Ll1iterating {
+public class LL1IteratingoverLikedList {
     public void iterating(){
         LinkedList<Integer> ll= new LinkedList<>();
         for(int i=1;i<=10;i++){
@@ -17,7 +15,7 @@ public class Ll1iterating {
     }
 
     public static void main(String args[]){
-        Ll1iterating ll1iterating = new Ll1iterating();
+        LL1IteratingoverLikedList ll1iterating = new LL1IteratingoverLikedList();
         ll1iterating.iterating();
     }
 

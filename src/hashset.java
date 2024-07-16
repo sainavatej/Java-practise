@@ -30,6 +30,7 @@ public class hashset {
         hs.add("Geeks");
         hs.add("Is");
         hs.add("Very helpful");
+        hs.add("For");   //doesnts print it because hashsets wont allow duplicates so it will be not shown.
 
         // Traversing elements
         Iterator<String> itr = hs.iterator();
